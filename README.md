@@ -27,5 +27,9 @@ Here are some ideas to get you started:
   - Certified Kubernetes Application Developer course on Udemy.
   - Linux networking 
 
+- Other misc tools I use for my work:
+  - Git, Saltstack, VSCode, Postman, Python, Postgres, gRPC, go-pg. 
+  
+
 - You can reach me on 
   - Linkedin - https://www.linkedin.com/in/jjainam/
