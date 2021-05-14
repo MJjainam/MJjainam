@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I am Jainam - Backend Engineer from India. 👨‍💻
+
+
 
 <!--
 **MJjainam/MJjainam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+- I'm currently working on 
+  - Building Microservices
+  - Kubernetes 
+  - Golang
+
+- I'm currently learning
+  - Certified Kubernetes Application Developer course on Udemy.
+  - Linux networking 
+
+- You can reach me on 
+  - Linkedin - https://www.linkedin.com/in/jjainam/
