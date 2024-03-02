@@ -1,4 +1,4 @@
-### Hi there 👋 I am Jainam - Backend Engineer from India. 👨‍💻
+### Hi there 👋 I am Jainam - Staff Backend Engineer from Bangalore, India. 👨‍💻
 
 
 
@@ -19,13 +19,14 @@ Here are some ideas to get you started:
 
 
 - I'm currently working on 
-  - Building Microservices
-  - Kubernetes 
+  - Building Microservices 
+  - Kubernetes / CRDs / Custom Controllers
   - Golang
 
-- I'm currently learning
-  - Certified Kubernetes Application Developer course on Udemy.
-  - Linux networking 
+- I'm currently exploring
+  - Linux networking
+  - Various CNCF project
+  - ML/AI Ops tools to build better ones
 
 - Other misc tools I use for my work:
   - Git, Saltstack, VSCode, Postman, Python, Postgres, gRPC, go-pg. 
