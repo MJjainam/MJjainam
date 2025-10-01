@@ -19,17 +19,17 @@ Here are some ideas to get you started:
 
 
 - I'm currently working on 
-  - Building Microservices 
-  - Kubernetes / CRDs / Custom Controllers
-  - Golang
+  - Gemini CLI
+  - MCP / A2A
+  - Build CI Systems / Security
 
 - I'm currently exploring
-  - Linux networking
+  - Networking
   - Various CNCF project
   - ML/AI Ops tools to build better ones
 
 - Other misc tools I use for my work:
-  - Git, Saltstack, VSCode, Postman, Python, Postgres, gRPC, go-pg. 
+  - Git, Go, Java, Typescript, VSCode, Postman, Postgres, gRPC, go-pg. 
   
 
 - You can reach me on 
